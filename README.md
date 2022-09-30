@@ -3,25 +3,24 @@ Cloud Computing
 
 ## Slides
 
-|Lecture|Slide|  
-|:--:|:--:|  
-|1| Introduction |  
-|2||  
-|3||  
-|4||  
-|5||  
-|6||  
-|7||  
-|8||  
+|Lecture|Slide|
+|:--:|:--:|
+|1| [Introduction](./slides/lec-1-intro.pdf) |
+|2|[Introduction to Federated Learning](./slides/lec-2-intro-FL.pdf)|
+|3||
+|4||
+|5||
+|6||
+|7||
+|8||
 |9||
 
 ## Labs
 
-|Lecture|Slide|  
-|:--:|:--:|  
-|1| Federated Learning |  
-|2| Docker & Kubernetes |  
-|3| Serverless Computing|  
+|Lecture|Slide|
+|:--:|:--:|
+|1| Federated Learning |
+|2| Serverless Computing|
 
 ## Papers
 
