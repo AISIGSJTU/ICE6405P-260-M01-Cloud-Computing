@@ -7,7 +7,7 @@ Cloud Computing
 |:--:|:--:|
 |1| [Introduction](./slides/lec-1-intro.pdf) |
 |2|[Introduction to Federated Learning](./slides/lec-2-intro-FL.pdf)|
-|3||
+|3|[Federated Learning Research](./slides/lec-3-FL-research.pdf)|
 |4||
 |5||
 |6||
