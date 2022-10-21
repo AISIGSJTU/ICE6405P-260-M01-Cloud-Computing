@@ -19,7 +19,7 @@ Cloud Computing
 
 |Lecture|Slide|
 |:--:|:--:|
-|1| Federated Learning |
+|1| [Federated Learning](./slides/lab-1-FL.pdf) |
 |2| Serverless Computing|
 
 ## Papers
