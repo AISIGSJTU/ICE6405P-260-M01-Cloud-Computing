@@ -8,10 +8,10 @@ Cloud Computing
 |1| [Introduction](./slides/lec-1-intro.pdf) |
 |2|[Introduction to Federated Learning](./slides/lec-2-intro-FL.pdf)|
 |3|[Federated Learning Research](./slides/lec-3-FL-research.pdf)|
-|4|[Virtualization (1)](./slides/lec-4-virtualization (1).pdf)|
-|5|[Virtualization (2)](./slides/lec-5-virtualization (2).pdf)|
-|6||
-|7||
+|4|[Virtualization (1)](./slides/lec-4-virtualization-1.pdf)|
+|5|[Virtualization (2)](./slides/lec-5-virtualization-2.pdf)|
+|6|[Virtualization (3)](./slides/lec-6-virtualization-3.pdf)|
+|7|[Serverless (1)](./slides/lec-7-serverless-1.pdf)|
 |8||
 |9||
 
