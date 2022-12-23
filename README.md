@@ -12,15 +12,15 @@ Cloud Computing
 |5|[Virtualization (2)](./slides/lec-5-virtualization-2.pdf)|
 |6|[Virtualization (3)](./slides/lec-6-virtualization-3.pdf)|
 |7|[Serverless (1)](./slides/lec-7-serverless-1.pdf)|
-|8||
-|9||
+|8|[Serverless (2)](./slides/lec-8-serverless-2.pdf)|
+|9|[Serverless (3)](./slides/lec-9-serverless-3.pdf)|
 
 ## Labs
 
 |Lecture|Slide|
 |:--:|:--:|
 |1| [Federated Learning](./slides/lab-1-FL.pdf) |
-|2| Serverless Computing|
+|2| [Serverless Computing](./slides/lab-2-Serverless.pdf) |
 
 ## Papers
 
@@ -68,6 +68,27 @@ Cloud Computing
 - [17] Hanxi, Guo et al. “Siren: Byzantine-robust Federated Learning via Proactive Alarming.”
 
 ### Serverless Computing
+
+**Application**
+
+- [1] Jiang, Jiawei, et al. "Towards demystifying serverless machine learning training." *Proceedings of the 2021 International Conference on Management of Data*. 2021.
+- [2] Xu, Fei, et al. "λDNN: Achieving Predictable Distributed DNN Training With Serverless Architectures." *IEEE Transactions on Computers* 71.2 (2021): 450-463.
+- [3] Lin, Changyuan, and Hamzeh Khazaei. "Modeling and optimization of performance and cost of serverless applications." *IEEE Transactions on Parallel and Distributed Systems* 32.3 (2020): 615-632.
+- [4] Thorpe, John, et al. "Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads." *15th USENIX Symposium on Operating Systems Design and Implementation*. 2021.
+
+**Scheduling**
+
+- [5] Mahgoub, Ashraf, et al. "ORION and the three rights: Sizing, bundling, and prewarming for serverless DAGs." *16th USENIX Symposium on Operating Systems Design and Implementation (OSDI 22)*. 2022.
+- [6] Agache, Alexandru, et al. "Firecracker: Lightweight virtualization for serverless applications." *17th USENIX symposium on networked systems design and implementation (NSDI 20)*. 2020.
+- [7]  Suresh, Amoghavarsha, and Anshul Gandhi. "ServerMore: Opportunistic Execution of Serverless Functions in the Cloud." *Proceedings of the ACM Symposium on Cloud Computing*. 2021.
+- [8] Zhang, Haoran, et al. "Fault-tolerant and transactional stateful serverless workflows." *14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20)*. 2020.
+
+**Security**
+
+- [9] Datta, Pubali, et al. "ALASTOR: Reconstructing the Provenance of Serverless Intrusions." *31st USENIX Security Symposium (USENIX Security 22)*. 2022.
+- [10] Sankaran, Arnav, Pubali Datta, and Adam Bates. "Workflow integration alleviates identity and access management in serverless computing." *Annual Computer Security Applications Conference*. 2020.
+- [11] Li, Mingyu, Yubin Xia, and Haibo Chen. "Confidential serverless made efficient with plug-in enclaves." *2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)*. IEEE, 2021.
+- [12] Mahgoub, Ashraf, et al. "{SONIC}: Application-aware Data Passing for Chained Serverless Applications." *2021 USENIX Annual Technical Conference (USENIX ATC 21)*. 2021.
 
 ## Contacts
 
